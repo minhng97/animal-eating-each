@@ -1,0 +1,17 @@
+- For commited files only:
+git reset --soft id
+git reset --mixed
+git reset --hard
+
+git log 
+git show id
+git diff ( for unstaged area)
+
+git restore ( for unstaged area)
+
+- Branching and merging
+git checkout -b <branch>
+git checkout <branch>
+git merge: 
+ checkout to A
+ merge B
