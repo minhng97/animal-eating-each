@@ -15,3 +15,4 @@ git checkout <branch>
 git merge: 
  checkout to A
  merge B
+git branch -d <branch> (to delete branch)
