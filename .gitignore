@@ -19,13 +19,14 @@
 *.rar
 *.tar
 *.zip
-
+node_modules
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
 *.ini
+
 # OS generated files #
 ######################
 .DS_Store
