@@ -10,7 +10,7 @@ git diff ( for unstaged area)
 git restore ( for unstaged area)
 
 - Branching and merging
-git checkout -b <branch>
+git checkout -b <branch> (to create and checkout at the same time)
 git checkout <branch>
 git merge: 
  checkout to A
