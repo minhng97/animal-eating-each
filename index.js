@@ -7,7 +7,7 @@ var cat = new Cat('Tom');
 var mouse = new Mouse('Jerry');
 var dog = new Dog('Lu');
 try {
-	cat.eat(dog)
+	cat.eat(mouse)
 }
 catch(error) {
 	console.log('error: ', error)
