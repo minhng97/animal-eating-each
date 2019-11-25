@@ -20,6 +20,7 @@
 *.tar
 *.zip
 node_modules
+mypj
 # Logs and databases #
 ######################
 *.log
