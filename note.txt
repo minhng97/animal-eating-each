@@ -6,8 +6,8 @@ git reset --hard
 git log 
 git show id
 git diff ( for unstaged area)
-
 git restore ( for unstaged area)
+git revert - to unchange the files in commit
 
 - Branching and merging
 git checkout -b <branch> (to create and checkout at the same time)
