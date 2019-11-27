@@ -2,13 +2,13 @@
 git reset --soft id
 git reset --mixed
 git reset --hard
-
+/////////////////////////
 git log 
 git show id
 git diff ( for unstaged area)
-
 git restore ( for unstaged area)
-
+git revert - to unchange the files in commit
+/////////////////////////
 - Branching and merging
 git checkout -b <branch> (to create and checkout at the same time)
 git checkout <branch>
@@ -16,7 +16,7 @@ git merge:
  checkout to A
  merge B
 git branch -d <branch> (to delete branch)
-
+//////////////////////////
 - Revert committed files
 git revert <commit>
 
